@@ -1,0 +1,9 @@
+d:\users\paul\documents\visual studio 2012\Projects\Kata - FizzBuzz\Kata - FizzBuzz\bin\Debug\Kata - FizzBuzz.exe.config
+d:\users\paul\documents\visual studio 2012\Projects\Kata - FizzBuzz\Kata - FizzBuzz\bin\Debug\Kata - FizzBuzz.exe
+d:\users\paul\documents\visual studio 2012\Projects\Kata - FizzBuzz\Kata - FizzBuzz\bin\Debug\Kata - FizzBuzz.pdb
+d:\users\paul\documents\visual studio 2012\Projects\Kata - FizzBuzz\Kata - FizzBuzz\obj\Debug\Kata - FizzBuzz.csprojResolveAssemblyReference.cache
+d:\users\paul\documents\visual studio 2012\Projects\Kata - FizzBuzz\Kata - FizzBuzz\obj\Debug\Kata - FizzBuzz.exe
+d:\users\paul\documents\visual studio 2012\Projects\Kata - FizzBuzz\Kata - FizzBuzz\obj\Debug\Kata - FizzBuzz.pdb
+D:\Development\Git Home\PHRepository\Kata - FizzBuzz\bin\Debug\Kata - FizzBuzz.exe.config
+D:\Development\Git Home\PHRepository\Kata - FizzBuzz\obj\Debug\Kata - FizzBuzz.exe
+D:\Development\Git Home\PHRepository\Kata - FizzBuzz\obj\Debug\Kata - FizzBuzz.pdb
